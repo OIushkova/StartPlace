@@ -1,2 +1,2 @@
 # StartPlace
-Just a start) 
+Just a start of new project
